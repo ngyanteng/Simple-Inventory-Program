@@ -1,0 +1,36 @@
+PI101
+Puma Ignite
+Running shoe
+Sports
+Puma SE
+299.99
+120.50
+189
+35
+1975
+5
+1
+SS002
+Seiko SKX007
+Mechanical Diving Watch
+Watches
+Seiko Group
+499.95
+205.34
+30
+12
+1982
+2
+10
+AD8001
+Audi A8
+Super Sedan
+Automobile
+Audi AG
+285799.95
+201198.15
+9
+3
+2016
+12
+24
